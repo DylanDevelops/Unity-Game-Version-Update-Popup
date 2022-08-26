@@ -91,7 +91,7 @@ There are multiple ways to go about this but I recommend the following way as it
 
 Feel free to contribute! I not an incredibly skilled programer, so if you see something that you think you could improve apon, please feel free to work on the project. Just please follow the few rules below.
 
-1) Always create a **NEW** branch when working on this project. **EDITS ON A BRANCH THAT IS NOT YOURS WILL BE DENIED!** Make your branch's name something specific so that it helps explain what the branch is for! For example, `fixed-typo` or `added-*SHORT DESCRIPTION OF CHANGE*.
+1) Always create a **NEW** branch when working on this project. **EDITS ON A BRANCH THAT IS NOT YOURS WILL BE DENIED!** Make your branch's name something specific so that it helps explain what the branch is for! For example, `fixed-typo` or `added-*SHORT DESCRIPTION OF CHANGE*`.
 
 2) Test your changes!
 
