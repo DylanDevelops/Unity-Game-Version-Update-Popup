@@ -106,4 +106,5 @@ Feel free to contribute! I not an incredibly skilled programer, so if you see so
 ## Credits
 
 Created by: Dylan Ravel [License](License)
+
 Contact Email: [dylanm.ravel@gmail.com](dylanm.ravel@gmail.com)
