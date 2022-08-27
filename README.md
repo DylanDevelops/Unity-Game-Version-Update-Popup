@@ -1,5 +1,7 @@
 # Welcome to the Version Popup Package for your Unity Game
 
+A helpful tool for developers looking to keep players reminded of new updates in their Unity game.
+
 ## Table of Contents
 
 Need to find a specific section? Use the table of contents below to jump to where you need to go!
